@@ -1,0 +1,8 @@
+{
+  "name": "Top 25 Songs",
+  "comment": "Top 25 most played songs.",
+  "all": [{ "inTheLast": { "lastPlayed": 30 } }],
+  "sort": "playcount",
+  "order": "desc",
+  "limit": 25
+}

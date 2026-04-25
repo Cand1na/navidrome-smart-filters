@@ -1,0 +1,7 @@
+{
+  "name": "Never Played",
+  "comment": "Songs that have never been played.",
+  "all": [{"is": {"playcount": 0}}],
+  "order": "asc",
+  "sort": "title"
+}
